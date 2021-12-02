@@ -6,5 +6,8 @@ Pizza
 Pasta
 Burger
 
+Beans
+Kheer
+
 
 Thank you :)
