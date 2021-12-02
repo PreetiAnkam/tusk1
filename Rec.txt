@@ -6,7 +6,12 @@ Pizza
 Pasta
 Burger
 
+Beans
+Kheer
+
 
 Thank you :)
+
+Done my changes...
 
 Final Copy
